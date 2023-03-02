@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^4.6.5",
+    "mongodb": "^2.2.33"
+  }
+}
